@@ -28,15 +28,21 @@
 
 ### 34) Geometric Optics
 
-> sadge
+☠️
 
 ### 35) Interference
 
 - [ ] 35.3
+- [ ] 35.25
 - [ ] 35.34
 - [ ] 35.37
 
 
 ### 36) Diffraction
 
-- [ ] 
+- [ ] 36.3
+- [ ] 36.13
+- [ ] 36.55
+
+
+> 👉 PRs and issues are appreciated.
