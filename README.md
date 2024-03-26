@@ -41,7 +41,6 @@
 - [ ] 35.36
 - [ ] 35.37
 
-
 ### 36) Diffraction
 
 - [ ] 36.3
@@ -79,7 +78,6 @@
 - [ ] 39.73
 - [ ] 39.74
 
-
 ### 40) Quantum Mechanics 1: Wave Functions
 
 - [ ] 40.2
@@ -89,8 +87,6 @@
 - [ ] 40.50
 - [ ] 40.58
 
-
 ### 41) Quantum Mechanics 2: Atomic Structure
-
 
 > 👉 PRs and issues are appreciated.
