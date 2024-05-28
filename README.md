@@ -89,4 +89,16 @@
 
 ### 41) Quantum Mechanics 2: Atomic Structure
 
+- [ ] 40.1
+- [ ] 40.9
+- [ ] 40.19
+- [ ] 40.24
+- [ ] 40.25
+- [ ] 40.29
+- [ ] 40.44
+- [ ] 40.45
+- [ ] 40.59
+- [ ] 40.62
+- [ ] 40.68
+
 > 👉 PRs and issues are appreciated.
